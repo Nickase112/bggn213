@@ -2,9 +2,7 @@
 title: "class15"
 author: "Nattiwong"
 date: "3/9/2022"
-output:
-  pdf_document: default
-  html_document: default
+output: github_document
 ---
 
 ```{r}
