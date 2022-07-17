@@ -1,6 +1,6 @@
 ---
 title: "Exam"
-author: "Nattiwon A59004955"
+author: "Nattiwong A59004955"
 date: "7/17/2022"
 output: github_document
 ---
